@@ -1,2 +1,2 @@
-# Car-Game-With-Obstacles
-BUET CSE'17 L1T1 Term Project CSE 102
+# iGraphics
+BUET CSE'17 L1T1 CSE 102
