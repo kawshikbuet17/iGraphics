@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1527271757 source:d:\programming\igraphicskawshik\kkpigraphics\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	"iGraphics.h"
+
+1462108168 d:\programming\igraphicskawshik\kkpigraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1527481838 source:d:\programming\igraphicskawshik\kkpigraphics\imain.cpp
+	"iGraphics.h"
+	<math.h>
+
+1529406669 source:d:\buet cse'17\kkp offline 1\imain.cpp
+	"iGraphics.h"
+	<math.h>
+
+1528060534 d:\buet cse'17\kkp offline 1\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1529686430 source:d:\buet cse'17\igraphicskawshik\kkp offline 1\imain.cpp
+	"iGraphics.h"
+	<math.h>
+
+1528060534 d:\buet cse'17\igraphicskawshik\kkp offline 1\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
