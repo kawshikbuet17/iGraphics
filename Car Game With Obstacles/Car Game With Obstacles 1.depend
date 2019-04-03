@@ -1,0 +1,266 @@
+# depslib dependency file v1.0
+1530951595 source:d:\programming\rough\car game with obstacles 1\imain.cpp
+	"iGraphics.h"
+
+1493810122 d:\programming\rough\car game with obstacles 1\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1531018205 source:d:\buet cse'17\car game with obstacles 1\imain.cpp
+	"iGraphics.h"
+	<Windows.h>
+	<mmsystem.h>
+	<stdlib.h>
+
+1493810122 d:\buet cse'17\car game with obstacles 1\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1531590706 source:d:\buet cse'17\car game with obstacles 2\imain.cpp
+	"iGraphics.h"
+	<Windows.h>
+	<stdlib.h>
+
+1493810122 d:\buet cse'17\car game with obstacles 2\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1532152877 source:d:\buet cse'17\car game with obstacles 3\imain.cpp
+	"iGraphics.h"
+	<Windows.h>
+	<stdlib.h>
+
+1493810122 d:\buet cse'17\car game with obstacles 3\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1532170243 source:d:\buet cse'17\car game with obstacles 4\imain.cpp
+	"iGraphics.h"
+	<Windows.h>
+	<stdlib.h>
+
+1493810122 d:\buet cse'17\car game with obstacles 4\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1532243034 source:d:\car game with obstacles 5\imain.cpp
+	"iGraphics.h"
+	<Windows.h>
+	<stdlib.h>
+
+1493810122 d:\car game with obstacles 5\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1532587091 source:d:\programming\rough\car game with obstacles 5\imain.cpp
+	"iGraphics.h"
+	<Windows.h>
+	<stdlib.h>
+
+1493810122 d:\programming\rough\car game with obstacles 5\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1532610761 source:d:\programming\rough\car game with obstacles 6 kkp\imain.cpp
+	"iGraphics.h"
+	<Windows.h>
+	<stdlib.h>
+
+1493810122 d:\programming\rough\car game with obstacles 6 kkp\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1532624343 source:c:\users\akm\desktop\car game with obstacles 6 kkp-20180726t140434z-001\car game with obstacles 6 kkp\imain.cpp
+	"iGraphics.h"
+	<Windows.h>
+	<stdlib.h>
+
+1532624342 c:\users\akm\desktop\car game with obstacles 6 kkp-20180726t140434z-001\car game with obstacles 6 kkp\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1532626200 source:c:\users\akm\desktop\the latest one\car game with obstacles 6 kkp-20180726t140434z-001\car game with obstacles 6 kkp\imain.cpp
+	"iGraphics.h"
+	<Windows.h>
+	<stdlib.h>
+
+1532624342 c:\users\akm\desktop\the latest one\car game with obstacles 6 kkp-20180726t140434z-001\car game with obstacles 6 kkp\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1532692228 source:d:\programming\rough\the latest one\car game with obstacles 6 kkp-20180726t140434z-001\car game with obstacles 6 kkp\imain.cpp
+	"iGraphics.h"
+	<Windows.h>
+	<stdlib.h>
+
+1532624344 d:\programming\rough\the latest one\car game with obstacles 6 kkp-20180726t140434z-001\car game with obstacles 6 kkp\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1532743626 source:d:\programming\rough\the latest one\cgwo kkp1 - copy\imain.cpp
+	"iGraphics.h"
+	<Windows.h>
+	<stdlib.h>
+
+1532624344 d:\programming\rough\the latest one\cgwo kkp1 - copy\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1532744011 source:d:\programming\rough\the latest one\cgwo kkp1 - final\imain.cpp
+	"iGraphics.h"
+	<Windows.h>
+	<stdlib.h>
+
+1532624344 d:\programming\rough\the latest one\cgwo kkp1 - final\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1532791094 source:d:\programming\rough\the latest one\cgwo kkp2 - final\imain.cpp
+	"iGraphics.h"
+	<Windows.h>
+	<stdlib.h>
+
+1532624344 d:\programming\rough\the latest one\cgwo kkp2 - final\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1532811588 source:c:\users\paul\desktop\cgwo kkp2 - final\imain.cpp
+	"iGraphics.h"
+	<Windows.h>
+	<stdlib.h>
+
+1532624344 c:\users\paul\desktop\cgwo kkp2 - final\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1532839384 source:d:\buet cse'17\term project main\cgwo full final\imain.cpp
+	"iGraphics.h"
+	<Windows.h>
+	<stdlib.h>
+
+1532624344 d:\buet cse'17\term project main\cgwo full final\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1532839384 source:d:\buet cse'17\term project main\car game with obstacles\imain.cpp
+	"iGraphics.h"
+	<Windows.h>
+	<stdlib.h>
+
+1532624344 d:\buet cse'17\term project main\car game with obstacles\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1532839384 source:d:\buet cse'17\term project 1-1\car game with obstacles\imain.cpp
+	"iGraphics.h"
+	<Windows.h>
+	<stdlib.h>
+
+1532624344 d:\buet cse'17\term project 1-1\car game with obstacles\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1535852386 source:c:\users\asus\downloads\compressed\car game with obstacles\imain.cpp
+	"iGraphics.h"
+	<Windows.h>
+	<stdlib.h>
+
+1535852382 c:\users\asus\downloads\compressed\car game with obstacles\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+

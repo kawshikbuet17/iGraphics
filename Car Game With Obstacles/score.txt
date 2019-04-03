@@ -1,0 +1,13 @@
+a 50
+b 100
+c 150
+d 30
+e 60
+
+kkp 84
+fardin 195
+kawshik 198
+suba 177
+moumita 284
+player 252
+kkpkkp 328
